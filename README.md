@@ -40,8 +40,3 @@ Understanding SMB is crucial for cybersecurity professionals as it remains a com
 - RFCs related to SMB/CIFS
 - Cybersecurity best practices guides
 
-## Repository
-[GitHub Repository](https://github.com/Duncan-Maganga/Understanding-SMB-What-It-Is-How-It-Works-and-Why-It-Matters)
-
-
-
